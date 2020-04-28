@@ -1,5 +1,5 @@
 {
-    "name": "r3search/ClickatellBundle",
+    "name": "R3search/ClickatellBundle",
     "type": "symfony-bundle",
     "description": "Symfony ClickatellBundle",
     "keywords": ["clickatell"],
