@@ -1,0 +1,29 @@
+{
+    "name": "archer/clickatell-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony ClickatellBundle",
+    "keywords": ["clickatell"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9",
+        "symfony/framework-bundle": "~2.8|~3.0"
+    },
+    "require-dev": {
+        "doctrine/doctrine-bundle": "~1.6",
+        "symfony/yaml": "~2.8|~3.0",
+        "symfony/validator": "~2.8|~3.0"
+    },
+    "autoload": {
+        "psr-4": { "Archer\\ClickatellBundle\\": "" }
+    },
+    "authors": [
+        {
+            "name": "Andrey Samusev",
+            "email": "andrey@4devs.pro"
+        },
+        {
+            "name": "Archer Soft Community",
+            "homepage": "https://github.com/archer-soft/ClickatellBundle/contributors"
+        }
+    ]
+}
