@@ -1,5 +1,5 @@
 {
-    "name": "archer/clickatell-bundle",
+    "name": "r3search/ClickatellBundle",
     "type": "symfony-bundle",
     "description": "Symfony ClickatellBundle",
     "keywords": ["clickatell"],
